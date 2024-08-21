@@ -1,0 +1,8 @@
+python=3.6
+sudo apt-get update
+sudo apt-get install graphviz graphviz-dev
+
+pygraphviz
+h5py==2.10.0
+tensorflow-gpu==2.1.0
+pyyaml
